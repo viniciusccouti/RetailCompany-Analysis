@@ -13,4 +13,4 @@ Main Goal:
 
 - What is this client occupation? Age? How much this person makes per month? All sorts of information that you can analyze to find out who is the ideal client for the company.
 
-Database: https://drive.google.com/drive/folders/1XvNLDKVH7TUS8HdH4r0TkXL__MFpoc3e?usp=share_link
+Database: https://drive.google.com/drive/folders/1XvNLDKVH7TUS8HdH4r0TkXL__MFpoc3e?usp=share_link   **_You have to download the file clientes.csv_**
